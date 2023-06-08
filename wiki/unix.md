@@ -42,8 +42,8 @@ services:
     environment:
       DB_MYSQL_HOST: "db"
       DB_MYSQL_PORT: 3306
-      DB_MYSQL_USER: "user42"
-      DB_MYSQL_PASSWORD: "please84WAITme1349"
+      DB_MYSQL_USER: "USER"
+      DB_MYSQL_PASSWORD: "PASS"
       DB_MYSQL_NAME: "npm"
       # Uncomment this if IPv6 is not enabled on your host
       # DISABLE_IPV6: 'true'
